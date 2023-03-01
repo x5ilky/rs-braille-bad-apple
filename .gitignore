@@ -1,4 +1,5 @@
 /target
-/frames/*
+/apple-frames/*
 /rick-frames/*
+/jini-frames/*
 frames_cache
