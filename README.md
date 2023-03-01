@@ -5,5 +5,5 @@ and then run the program.
 
 ```bash
 $ cargo build --release
-$ ./target/release/rs-braille-bad-apple
+$ ./target/release/rs-braille-bad-apple frames
 ```
